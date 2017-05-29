@@ -1,0 +1,12 @@
+.img-box{
+    width: 200px;
+    height: 256px ;
+    margin: 0 auto;
+    }
+    .glyphicon {
+        font-size: 5rem;
+        color: rgb(153, 0, 0);
+    }
+    a:hover .page-scroll{
+        color: black;
+    }
