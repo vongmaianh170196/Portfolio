@@ -10,3 +10,20 @@
     a:hover .page-scroll{
         color: black;
     }
+    #contact, #skill{
+        background-image: url(../img/portfolio/background/bgsec.jpg);
+    }
+    #portfolio{
+        padding-bottom: 0;
+        background-image: url(../img/portfolio/background/bgport.jpg);
+    }
+     #about{
+        background-image: url(../img/portfolio/background/bgport.jpg);
+    }
+    #portfolio h2 {
+        color: white;
+    }
+    #portfolio hr {
+        border-color: #f5f5f5;
+
+    }
